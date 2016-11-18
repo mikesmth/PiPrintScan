@@ -3,13 +3,13 @@ PiPrintScan
 
 Use a raspberry pi as a printer and scanner server.
 
-I’m made one for a friend who is no techie, so it needed to be noob
+I’ve made one for a friend who is not a techie, so it needed to be easily
 user-configurable.
 
 I adapted a installer script which was initially uploaded by someone anonymous
 called swe\_toast. I tend to test scripts first b4 uploading.
 
-Took out some bugs, and added upnp support and a configuration page for
+Took out some bugs, anadded upnp support and a configuration page for
 cloudprint.
 
 Setup your Pi with Raspbian Jessie Lite
